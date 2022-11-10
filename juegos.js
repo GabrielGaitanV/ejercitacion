@@ -1,1 +1,1 @@
-let juegos = ["Call of Duty", "Uncharted"];
+let juegos = ["Call of Duty", "Uncharted", "Red Dead Redemption"];
