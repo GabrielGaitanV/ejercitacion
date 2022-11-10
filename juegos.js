@@ -1,0 +1,1 @@
+let juegos = ["Call of Duty", "Uncharted"];
