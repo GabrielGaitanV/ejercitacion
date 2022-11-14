@@ -1,0 +1,1 @@
+let conclucion = "conflicto resuelto";
